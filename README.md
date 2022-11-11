@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Azure link: https://brave-rock-0e5939f10.2.azurestaticapps.net/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
